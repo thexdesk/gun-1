@@ -43,7 +43,7 @@
     "iojs": ">=0.0.1"
   },
   "dependencies": {
-    "aws-sdk": "~>2.0.0",
+    "aws-sdk": "~2.991.0",
     "formidable": "~>1.0.15",
     "ws": "~>1.0.1"
   },
